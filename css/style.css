@@ -1,0 +1,29 @@
+.container{
+	margin: auto;
+	width: 960px;
+}
+.head{
+	width: 100%;
+	background-color: blue;
+	height: 70px;
+}
+
+.left{
+	width: 720px;
+	float: left;
+	background-color: green;
+	height: 300px;
+	padding: 10px;
+	box-sizing:Border-box;
+}
+.right{
+	width: 240px;
+	float: right;
+	background-color: red;
+	height: 300px;
+}
+.round{
+	border-radius: 50%;
+	display: block;
+	margin: 10px auto;
+}
